@@ -1,0 +1,11 @@
+F:\VijayN\dotnetcore\chapter1\bin\Debug\netcoreapp2.1\chapter1.deps.json
+F:\VijayN\dotnetcore\chapter1\bin\Debug\netcoreapp2.1\chapter1.runtimeconfig.json
+F:\VijayN\dotnetcore\chapter1\bin\Debug\netcoreapp2.1\chapter1.runtimeconfig.dev.json
+F:\VijayN\dotnetcore\chapter1\bin\Debug\netcoreapp2.1\chapter1.dll
+F:\VijayN\dotnetcore\chapter1\bin\Debug\netcoreapp2.1\chapter1.pdb
+F:\VijayN\dotnetcore\chapter1\obj\Debug\netcoreapp2.1\chapter1.csprojAssemblyReference.cache
+F:\VijayN\dotnetcore\chapter1\obj\Debug\netcoreapp2.1\chapter1.csproj.CoreCompileInputs.cache
+F:\VijayN\dotnetcore\chapter1\obj\Debug\netcoreapp2.1\chapter1.AssemblyInfoInputs.cache
+F:\VijayN\dotnetcore\chapter1\obj\Debug\netcoreapp2.1\chapter1.AssemblyInfo.cs
+F:\VijayN\dotnetcore\chapter1\obj\Debug\netcoreapp2.1\chapter1.dll
+F:\VijayN\dotnetcore\chapter1\obj\Debug\netcoreapp2.1\chapter1.pdb
